@@ -24,7 +24,7 @@ At the root of this repository, you will find this `README.md` file. Each articl
 
    ```bash
    git clone https://github.com/aasoftir/my-articles.git
-   cd your-repo
+   cd my-articles
    ```
 
 2. **Explore Folders**: Each folder corresponds to a specific article. Navigate into the folder to find the article and any associated resources.
